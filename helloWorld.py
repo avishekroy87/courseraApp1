@@ -16,5 +16,4 @@ print(result);
 for num in range(2, 20000000 , 2):
     print(num);
 
-
 print("--- %s seconds ---" % (time.time() - start_time));
